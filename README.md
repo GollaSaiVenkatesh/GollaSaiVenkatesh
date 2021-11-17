@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GollaSaiVenkatesh [](https://komarev.com/ghpvc/?username=GollaSaiVenkatesh&label=Views)
-- 🔭 I’m currently working on [Courier Management System](https://github.com/Harish1303/CMS)
 - 👀 I’m interested in DSA , web development and android development
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me : [GollaSaiVenkatesh](https://www.linkedin.com/in/gollasaivenkatesh/)
